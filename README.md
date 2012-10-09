@@ -1,1 +1,1 @@
-userscripts for fluid (fluidapp.com)
+userscripts for [fluid] (http://fluidapp.com)
